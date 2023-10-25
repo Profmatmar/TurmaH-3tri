@@ -2,17 +2,17 @@ body {
     background-color: rosybrown;
 }
 
-.titulo{
+# titulo{
     text-align: center;
     background-color:black;
 }
 
-#cabecalho {
+. cabecalho {
     font-size: 200px;
     text-align: center;
 }
 
-#paragrafo {
+. paragrafo {
     color: rgb(190, 40, 170);
     text-align: justify;
     font-size: 55px;
