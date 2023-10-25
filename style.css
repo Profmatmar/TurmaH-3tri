@@ -5,9 +5,10 @@ body {
 #titulo{
     text-align:center;
     background-color:black;
+    font-size: 50px;
 }
 
-.cabecalho {
+#titulo1 {
     font-size: 50px;
     text-align:center;
 }
