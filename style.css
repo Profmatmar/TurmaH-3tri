@@ -8,12 +8,12 @@ body {
 }
 
 . cabecalho {
-    font-size: 200px;
+    font-size: 50px;
     text-align: center;
 }
 
 . paragrafo {
     color: rgb(190, 40, 170);
     text-align: justify;
-    font-size: 55px;
+    font-size: 15px;
 }
