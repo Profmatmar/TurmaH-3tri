@@ -7,12 +7,8 @@ body {
     background-color:black;
 }
 
-.paragrafo {
-    text-align: justify;
-    font-size: 10px;
-}
-p {
-    color: red;
+p.paragrafo {
+    color: rgb(190, 40, 170);
     text-align: justify;
     font-size: 25px;
 }
