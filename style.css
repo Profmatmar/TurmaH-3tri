@@ -42,3 +42,14 @@ ul {
 .alunos{
     background-color: #7cb8d4;
 }
+
+.sexto {
+    font-size: 35px;
+    list-style: none;
+}
+
+.setimo {
+    font-size: 35px;
+    text-align: center;
+    list-style-position: inside;
+}
