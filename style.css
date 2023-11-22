@@ -30,3 +30,11 @@ ul {
     margin: 15px;
     border: 10px outset rgb(190, 40, 170);
 }
+
+.turmas {
+    height: 200px;
+    width: 200px;
+    padding: 10px;
+    margin: 15px;
+    border: 10px outset rgb(190, 40, 170);
+}
