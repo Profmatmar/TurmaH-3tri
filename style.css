@@ -5,6 +5,8 @@ body {
     padding: 20px;
     background-color: rgb(127, 246, 255);
     border-bottom: 3px solid white;
+    display: flex;
+    justify-content: space-around;
  }
 #titulo{
     text-align:center;
@@ -63,7 +65,7 @@ h2 {
     font: bold;
 }
 
-.cabecalho {
+//.cabecalho {
 height: 10%;
 width: 10%;
 }
