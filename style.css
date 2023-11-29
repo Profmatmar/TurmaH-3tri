@@ -1,7 +1,11 @@
 body {
     background-image: linear-gradient(#d47cc9, rgba(182, 89, 167, 0.226), rgb(214, 145, 193));
 }
-
+ header {
+    padding: 20px;
+    background-color: aquamarine;
+    border-bottom: 5px solid white;
+ }
 #titulo{
     text-align:center;
     background-color:rgb(37, 210, 223);
@@ -55,6 +59,6 @@ ul {
 }
 
 h2 {
-    text-align: end;
+    text-align: center;
     font: bold;
 }
