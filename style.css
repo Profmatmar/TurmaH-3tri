@@ -65,7 +65,7 @@ h2 {
     font: bold;
 }
 
-//.cabecalho {
-height: 100%;
-width: 10%;
+.cabecalho {
+padding: 10px;
+border-bottom: 5px solid red;
 }
