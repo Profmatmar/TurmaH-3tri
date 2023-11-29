@@ -29,9 +29,9 @@ ul {
  inline-size: auto;
 }
 
-//#logo {
-    height: 400px;
-    width: 400px;
+#logo {
+    height: 100px;
+    width: 100px;
     padding: 5px;
     margin: 15px;
     border: 10px outset rgb(190, 40, 170);
