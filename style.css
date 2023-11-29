@@ -52,6 +52,7 @@ ul {
 .sexto {
     font-size: 35px;
     list-style: none;
+    display: inline-block;
 }
 
 .setimo {
